@@ -1,0 +1,56 @@
+Done Adding Block
+Block Level  0
+Merkle Root  [B@15ee98dc
+Prev hash  [B@3d0b0353
+Timestamp  1589914253231
+Block hash  [B@2d3654a6
+Nonce  0
+Done Adding Block
+Block Level  0
+Merkle Root  [B@3ce5fc82
+Prev hash  [B@7248014b
+Timestamp  1589914638612
+Block hash  [B@3a55766
+Nonce  1
+Done Adding Block
+Block Level  0
+Merkle Root  [B@75e6dfd8
+Prev hash  [B@197efe33
+Timestamp  1589914908327
+Block hash  [B@4c831095
+Nonce  3
+Done Adding Block
+Block Level  0
+Merkle Root  [B@6e27ba4f
+Prev hash  [B@54ee6c5c
+Timestamp  1589915231497
+Block hash  [B@247ab94b
+Nonce  0
+Done Adding Block
+Block Level  0
+Merkle Root  [B@656f25a8
+Prev hash  [B@5330598a
+Timestamp  1589915499755
+Block hash  [B@3177ad93
+Nonce  13
+Done Adding Block
+Block Level  0
+Merkle Root  [B@1041a5a4
+Prev hash  [B@528b1126
+Timestamp  1589915779295
+Block hash  [B@7c62caf6
+Nonce  2
+Done Adding Block
+Block Level  0
+Merkle Root  [B@728ca85e
+Prev hash  [B@6bcf0e60
+Timestamp  1589916320126
+Block hash  [B@76a6fb91
+Nonce  5
+Done Adding Block
+Block Level  0
+Merkle Root  [B@2f9b1343
+Prev hash  [B@322abbd3
+Timestamp  1589917466715
+Block hash  [B@261f0363
+Nonce  6

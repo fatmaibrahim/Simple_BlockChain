@@ -1,0 +1,8 @@
+client 4441
+localhost:4442 localhost:4443 localhost:4444
+node1 4442
+localhost:4441 localhost:4443 localhost:4444
+node2 4443
+localhost:4441 localhost:4442 localhost:4444
+node3 4444
+localhost:4441 localhost:4442 localhost:4443
